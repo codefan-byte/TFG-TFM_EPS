@@ -4,7 +4,7 @@
 # Plantilla TFG/TFM
 **Para ver la información del póster haz clic <a href="https://github.com/jmrplens/TFG-TFM_EPS/wiki/P%C3%B3ster">aquí</a>.**
 
-**Ejemplo real de TFG y póster:  <a href="http://jmrplens.com/GitHub_TFGTemplate/TFG+Poster.zip">Descargar proyecto LaTeX</a>**
+**Ejemplo real de TFG y póster:  <a href="https://jmrplens.github.io/assets/pdf/paper-resources/TFG-latex.zip">Descargar proyecto LaTeX</a>**
 
 ---
 
@@ -64,7 +64,7 @@ Recomiendo utilizar programas LaTeX que permitan trabajar con estructura de arch
 
 Detalle de trabajar con la estructura de archivos en <a href="https://www.texstudio.org/">TexStudio</a> (en <a href="http://www.xm1math.net/texmaker/">Texmaker</a> es igual) :
 
-<img src="http://jmrplens.com/GitHub_TFGTemplate/texstudio.png" width="30%"></img>
+<img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/texstudio.png" width="30%"></img>
 
 Existen herramientas de pago que facilitan más aún el trabajo con proyectos latex formados por varios archivos y generan más rapido los documentos como <a href="https://www.texpad.com/">Texpad</a> para Mac OS (utilizado para crear esta plantilla) o <a href="http://www.winedt.com/">WinEdt</a> para Windows.
 
@@ -98,7 +98,7 @@ Se ha dejado una función para mostrar una regla vertical y horizontal, para pod
 ```
 Se mostraría esto (haz clic sobre la imagen para verla más grande):
 
-<img src="http://jmrplens.com/GitHub_TFGTemplate/REG1.png" width="30%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/REG2.png" width="30%"></img>
+<img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/REG1.png" width="30%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/REG2.png" width="30%"></img>
 
 Estilo de página par e impar o página izquierda y página derecha.
 
@@ -142,13 +142,13 @@ Los cambios en la plantilla al cambiar la `ID` suceden en la portada y en la sub
 Por ejemplo, para la titulación con el `ID=1` se genera automáticamente esta portada y subportada
 
 <p align="center">
-<img src="http://jmrplens.com/GitHub_TFGTemplate/P1.png" width="30%"></img><img src="http://jmrplens.com/GitHub_TFGTemplate/PN1.png" width="30%"></img>
+<img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P1.png" width="30%"></img><img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PN1.png" width="30%"></img>
 </p>
 
 A continuación se muestran el resto de portadas que se pueden generar automáticamente:
 
 <p align="center">
-<img src="http://jmrplens.com/GitHub_TFGTemplate/P2.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/P3.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/P4.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/P5.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/P6.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/P7.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/P8.jpg" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PA.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PB.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PC.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PD.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PE.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PF.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PG.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PH.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PI.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PJ.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PK.png" width="20%"></img> <img src="http://jmrplens.com/GitHub_TFGTemplate/PL.jpg" width="20%"></img>
+<img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P2.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P3.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P4.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P5.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P6.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P7.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/P8.jpg" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PA.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PB.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PC.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PD.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PE.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PF.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PG.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PH.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PI.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PJ.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PK.png" width="20%"></img> <img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/PL.jpg" width="20%"></img>
 </p>
 
 ### Fuente de texto
@@ -174,7 +174,7 @@ El formato de la caja se define en el archivo `configuracioninicial.tex` en el a
 
 El resultado obtenido dentro del documento para, por ejemplo, lenguaje Python en color y en blanco y negro es el siguiente:
 
-<img src="http://jmrplens.com/GitHub_TFGTemplate/ECod.png" width="40%"></img>
+<img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/ECod.png" width="40%"></img>
 
 ### Optimización
 
@@ -211,7 +211,7 @@ Cuando el proyecto en GitHub sufre alguna actualización importante se sube una 
 
 Recuerda que debes seleccionar en el menú de Overleaf el compilador _XeLateX_ y el archivo principal `TFG-TFM_EPS_UA.tex` tal que:
 
-<img src="http://jmrplens.com/GitHub_TFGTemplate/overleafconfig.png" width="30%"></img>
+<img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/overleafconfig.png" width="30%"></img>
 
 
 ## Uso
@@ -489,7 +489,7 @@ En todo proceso de realizar un documento hay momentos en los que se necesita dej
 ```
 Obteniendo estos resultados (estos ejemplos se encuentran en la plantilla):
 
-<img src="http://jmrplens.com/GitHub_TFGTemplate/tareas.png" width="40%"></img>
+<img src="https://github.com/jmrplens/TFG-TFM_EPS/blob/c1b44997df1d5a0d9eae29e6cd59d280198746c1/.github/images/tareas.png" width="40%"></img>
 
 ## Control de errores
 Se han tenido en cuenta varias situaciones que podrían ser problemáticas para el diseño del documento, como:
@@ -675,8 +675,8 @@ El tamaño de la fuente se puede modificar en las siguientes líneas del mismo a
 ## Contacto (sugerencias, errores, etc)
 Si no deseas publicar en GitHub una sugerencia o algún error encontrado puedes ponerte en contacto conmigo a través de:
 
-* Email: <a href="mailto:info@jmrplens.com">info@jmrplens.com</a>
-* Telegram: <a href="https://t.me/jmrplens">@jmrplens</a>
+* Email: <a href="mailto:info@jmrplens.com">joreple@upv.es</a>
+* Web: <a href="https://jmrplens.github.io/">jmrplens.github.io</a>
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=BLP3R6VGYJB4Q)
 [![Donate](https://img.shields.io/badge/Donate-Ko--fi-brightgreen?color=ff5f5f)](https://ko-fi.com/jmrplens) 
